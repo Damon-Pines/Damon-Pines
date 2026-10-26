@@ -1,4 +1,4 @@
 - Hi there 👋
 - 🔭 I’m currently working on radiomics and bioinfomatics.
 - 🌱 I’m currently learning machine learning.
-- 📫 How to reach me: 26112030027@m.fudan.edu.cn
+- 📫 How to reach me: Damon_Pines@proton.me
